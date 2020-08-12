@@ -1,0 +1,318 @@
+[I 05:34:10.737 NotebookApp] JupyterLab extension loaded from /home/vagrant/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 05:34:10.738 NotebookApp] JupyterLab application directory is /home/vagrant/anaconda3/share/jupyter/lab
+[I 05:34:10.742 NotebookApp] Serving notebooks from local directory: /home/vagrant/repo/machine-learning
+[I 05:34:10.742 NotebookApp] The Jupyter Notebook is running at:
+[I 05:34:10.742 NotebookApp] http://localhost.localdomain:8888/
+[I 05:34:10.743 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 05:34:10.753 NotebookApp] No web browser found: could not locate runnable browser.
+[I 05:34:19.666 NotebookApp] Kernel started: fdbb25f6-1330-4fd9-b201-a156e4195596
+[I 05:35:24.287 NotebookApp] Kernel started: 7dcfcc7a-34fa-42ff-b0a3-ce7d8aea0078
+[I 05:37:24.317 NotebookApp] Saving file at /matplotlib.ipynb
+[I 05:39:24.316 NotebookApp] Saving file at /matplotlib.ipynb
+[I 06:01:24.293 NotebookApp] Saving file at /matplotlib.ipynb
+[I 06:03:24.322 NotebookApp] Saving file at /matplotlib.ipynb
+[I 06:05:24.318 NotebookApp] Saving file at /matplotlib.ipynb
+[I 06:07:24.326 NotebookApp] Saving file at /matplotlib.ipynb
+[I 06:09:24.300 NotebookApp] Saving file at /matplotlib.ipynb
+[I 06:11:24.310 NotebookApp] Saving file at /matplotlib.ipynb
+[I 06:13:24.312 NotebookApp] Saving file at /matplotlib.ipynb
+[I 06:17:24.308 NotebookApp] Saving file at /matplotlib.ipynb
+[I 06:21:24.302 NotebookApp] Saving file at /matplotlib.ipynb
+[I 06:23:24.323 NotebookApp] Saving file at /matplotlib.ipynb
+[I 06:27:24.307 NotebookApp] Saving file at /matplotlib.ipynb
+[I 06:33:24.333 NotebookApp] Saving file at /matplotlib.ipynb
+[I 06:35:24.314 NotebookApp] Saving file at /matplotlib.ipynb
+[I 06:37:24.301 NotebookApp] Saving file at /matplotlib.ipynb
+[I 06:39:24.302 NotebookApp] Saving file at /matplotlib.ipynb
+[W 06:40:22.031 NotebookApp] Notebook cat_recognition/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb is not trusted
+[I 06:40:24.114 NotebookApp] Kernel started: b0615552-9dc9-4017-8c36-783d20b4000f
+[I 06:40:24.148 NotebookApp] 302 GET /notebooks/cat_recognition/images/LogReg_kiank.png (192.168.10.1) 28.67ms
+[W 06:40:27.307 NotebookApp] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.1) 75.54ms referer=http://192.168.10.10:8888/notebooks/cat_recognition/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb
+[I 06:41:29.921 NotebookApp] Kernel started: b3737076-a304-4155-811a-ac128968bf92
+[I 06:43:29.926 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 06:45:29.905 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 06:47:29.905 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 06:49:29.905 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 06:51:30.245 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 06:53:30.104 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 06:55:29.928 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 06:59:29.920 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 07:00:19.655 NotebookApp] Saving file at /h5py.ipynb
+[W 08:28:12.705 NotebookApp] Replacing stale connection: fdbb25f6-1330-4fd9-b201-a156e4195596:deb4b7cf94a04e378f91798c6b382c04
+[I 08:28:17.727 NotebookApp] Starting buffering for fdbb25f6-1330-4fd9-b201-a156e4195596:deb4b7cf94a04e378f91798c6b382c04
+[I 08:28:17.753 NotebookApp] Restoring connection for fdbb25f6-1330-4fd9-b201-a156e4195596:deb4b7cf94a04e378f91798c6b382c04
+[W 08:28:17.773 NotebookApp] Replacing stale connection: 7dcfcc7a-34fa-42ff-b0a3-ce7d8aea0078:9d2af4fcacbd494282b7c7475128a80d
+[I 08:28:22.776 NotebookApp] Starting buffering for 7dcfcc7a-34fa-42ff-b0a3-ce7d8aea0078:9d2af4fcacbd494282b7c7475128a80d
+[I 08:28:22.788 NotebookApp] Restoring connection for 7dcfcc7a-34fa-42ff-b0a3-ce7d8aea0078:9d2af4fcacbd494282b7c7475128a80d
+[W 08:28:22.805 NotebookApp] Replacing stale connection: b3737076-a304-4155-811a-ac128968bf92:8062beedfad7418f949646a026588a90
+[I 08:28:27.807 NotebookApp] Starting buffering for b3737076-a304-4155-811a-ac128968bf92:8062beedfad7418f949646a026588a90
+[I 08:28:27.813 NotebookApp] Restoring connection for b3737076-a304-4155-811a-ac128968bf92:8062beedfad7418f949646a026588a90
+[W 08:28:27.829 NotebookApp] Replacing stale connection: b0615552-9dc9-4017-8c36-783d20b4000f:c0b00840fc8f42378a3a364ffd3fdacc
+[I 08:28:32.831 NotebookApp] Starting buffering for b0615552-9dc9-4017-8c36-783d20b4000f:c0b00840fc8f42378a3a364ffd3fdacc
+[I 08:28:32.841 NotebookApp] Restoring connection for b0615552-9dc9-4017-8c36-783d20b4000f:c0b00840fc8f42378a3a364ffd3fdacc
+[I 09:15:02.312 NotebookApp] Starting buffering for 7dcfcc7a-34fa-42ff-b0a3-ce7d8aea0078:9d2af4fcacbd494282b7c7475128a80d
+[I 09:15:02.806 NotebookApp] Starting buffering for fdbb25f6-1330-4fd9-b201-a156e4195596:deb4b7cf94a04e378f91798c6b382c04
+[I 09:15:02.807 NotebookApp] Starting buffering for b0615552-9dc9-4017-8c36-783d20b4000f:c0b00840fc8f42378a3a364ffd3fdacc
+[I 09:15:03.811 NotebookApp] Restoring connection for b0615552-9dc9-4017-8c36-783d20b4000f:c0b00840fc8f42378a3a364ffd3fdacc
+[I 09:15:03.838 NotebookApp] Restoring connection for fdbb25f6-1330-4fd9-b201-a156e4195596:deb4b7cf94a04e378f91798c6b382c04
+[W 09:15:03.861 NotebookApp] Replacing stale connection: b3737076-a304-4155-811a-ac128968bf92:8062beedfad7418f949646a026588a90
+[I 09:15:08.863 NotebookApp] Starting buffering for b3737076-a304-4155-811a-ac128968bf92:8062beedfad7418f949646a026588a90
+[I 09:15:08.865 NotebookApp] Restoring connection for b3737076-a304-4155-811a-ac128968bf92:8062beedfad7418f949646a026588a90
+[I 09:15:08.882 NotebookApp] Restoring connection for 7dcfcc7a-34fa-42ff-b0a3-ce7d8aea0078:9d2af4fcacbd494282b7c7475128a80d
+[I 05:11:29.738 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 05:13:29.704 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 05:15:29.708 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 05:17:29.722 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 05:19:29.711 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 05:21:29.745 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 05:23:29.725 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 05:25:29.707 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 05:27:29.724 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 05:28:15.376 NotebookApp] 302 GET /notebooks/cat_recognition/images/LogReg_kiank.png (192.168.10.1) 17.41ms
+[I 05:28:23.913 NotebookApp] Saving file at /cat_recognition/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb
+[W 05:28:23.915 NotebookApp] Notebook cat_recognition/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb is not trusted
+[I 05:29:29.727 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 05:31:29.720 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 05:32:34.425 NotebookApp] 302 GET /notebooks/cat_recognition/images/LogReg_kiank.png (192.168.10.1) 5.37ms
+[I 05:33:26.265 NotebookApp] 302 GET /notebooks/cat_recognition/images/LogReg_kiank.png (192.168.10.1) 5.20ms
+[I 05:33:29.706 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 05:34:23.910 NotebookApp] Saving file at /cat_recognition/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb
+[W 05:34:23.912 NotebookApp] Notebook cat_recognition/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb is not trusted
+[I 05:35:29.731 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 05:40:05.294 NotebookApp] Creating new notebook in 
+[I 05:40:06.804 NotebookApp] Kernel started: f3985655-6200-4be2-bc8f-8138b0ed4459
+[I 05:42:06.669 NotebookApp] Saving file at /markdown.ipynb
+[I 05:44:06.673 NotebookApp] Saving file at /markdown.ipynb
+[I 05:46:06.657 NotebookApp] Saving file at /markdown.ipynb
+[I 06:07:29.733 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 06:07:57.387 NotebookApp] 302 GET /notebooks/cat_recognition/images/LogReg_kiank.png (192.168.10.1) 5.49ms
+[I 06:08:23.923 NotebookApp] Saving file at /cat_recognition/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb
+[W 06:08:23.924 NotebookApp] Notebook cat_recognition/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb is not trusted
+[I 06:08:54.436 NotebookApp] 302 GET /notebooks/cat_recognition/images/LogReg_kiank.png (192.168.10.1) 5.47ms
+[I 06:09:15.619 NotebookApp] 302 GET /notebooks/cat_recognition/images/LogReg_kiank.png (192.168.10.1) 6.03ms
+[I 06:09:29.713 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 06:09:45.379 NotebookApp] 302 GET /notebooks/cat_recognition/images/LogReg_kiank.png (192.168.10.1) 5.67ms
+[I 06:10:06.668 NotebookApp] Saving file at /markdown.ipynb
+[I 06:10:23.914 NotebookApp] Saving file at /cat_recognition/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb
+[W 06:10:23.915 NotebookApp] Notebook cat_recognition/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb is not trusted
+[I 06:10:36.030 NotebookApp] 302 GET /notebooks/cat_recognition/images/LogReg_kiank.png (192.168.10.1) 4.81ms
+[I 06:11:29.714 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 06:11:45.450 NotebookApp] 302 GET /notebooks/cat_recognition/images/LogReg_kiank.png (192.168.10.1) 6.09ms
+[I 06:12:23.914 NotebookApp] Saving file at /cat_recognition/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb
+[W 06:12:23.915 NotebookApp] Notebook cat_recognition/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb is not trusted
+[I 06:13:29.710 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 06:15:29.728 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 06:17:29.707 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 06:19:29.723 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 06:21:29.708 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 06:22:46.874 NotebookApp] 302 GET /notebooks/cat_recognition/images/LogReg_kiank.png (192.168.10.1) 4.48ms
+[I 06:23:29.709 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 06:24:23.916 NotebookApp] Saving file at /cat_recognition/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb
+[W 06:24:23.917 NotebookApp] Notebook cat_recognition/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb is not trusted
+[I 06:25:29.711 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 06:25:58.840 NotebookApp] 302 GET /notebooks/cat_recognition/images/LogReg_kiank.png (192.168.10.1) 6.47ms
+[I 06:26:06.659 NotebookApp] Saving file at /markdown.ipynb
+[I 06:26:26.298 NotebookApp] 302 GET /notebooks/cat_recognition/images/LogReg_kiank.png (192.168.10.1) 5.08ms
+[I 06:26:38.720 NotebookApp] 302 GET /notebooks/cat_recognition/images/LogReg_kiank.png (192.168.10.1) 6.15ms
+[I 06:27:29.751 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 06:28:23.922 NotebookApp] Saving file at /cat_recognition/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb
+[W 06:28:23.923 NotebookApp] Notebook cat_recognition/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb is not trusted
+[I 06:29:29.756 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 06:31:29.717 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 06:33:29.729 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 06:40:06.688 NotebookApp] Saving file at /markdown.ipynb
+[I 09:15:29.772 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 09:21:26.219 NotebookApp] Creating new notebook in 
+[I 09:21:27.259 NotebookApp] Kernel started: 12d40cba-b93a-4cb9-852d-0e3cf29b2c8a
+[I 09:22:30.832 NotebookApp] Creating new notebook in 
+[I 09:22:31.887 NotebookApp] Kernel started: 370c5ce5-0367-4635-a997-020edc7f64f7
+[I 09:23:27.153 NotebookApp] Saving file at /information-theory.ipynb
+[I 09:24:06.879 NotebookApp] Creating new notebook in 
+[I 09:24:07.805 NotebookApp] Kernel started: e359cbca-6a33-4234-b062-68d79a11e1d9
+[I 09:24:31.864 NotebookApp] Saving file at /probability-theory.ipynb
+[I 09:24:43.257 NotebookApp] Creating new notebook in 
+[I 09:24:44.228 NotebookApp] Kernel started: b654c915-5117-405f-84c1-019c8a315eed
+[I 09:25:23.413 NotebookApp] Creating new notebook in 
+[I 09:25:24.279 NotebookApp] Kernel started: 11b6a6ce-7eed-4909-ab67-c48f416b5931
+[W 09:25:30.893 NotebookApp] 409 PATCH /api/contents/Untitled.ipynb (192.168.10.1): File already exists: numpy.ipynb
+[W 09:25:30.897 NotebookApp] File already exists: numpy.ipynb
+[W 09:25:30.898 NotebookApp] 409 PATCH /api/contents/Untitled.ipynb (192.168.10.1) 33.29ms referer=http://192.168.10.10:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[W 09:25:32.600 NotebookApp] 409 PATCH /api/contents/Untitled.ipynb (192.168.10.1): File already exists: numpy.ipynb
+[W 09:25:32.600 NotebookApp] File already exists: numpy.ipynb
+[W 09:25:32.601 NotebookApp] 409 PATCH /api/contents/Untitled.ipynb (192.168.10.1) 2.81ms referer=http://192.168.10.10:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[I 09:25:40.839 NotebookApp] Starting buffering for 11b6a6ce-7eed-4909-ab67-c48f416b5931:89a4581c0cff4f4c8e1131315bcfde3b
+[I 09:25:40.850 NotebookApp] Saving file at /Untitled.ipynb
+[I 09:25:53.090 NotebookApp] Kernel shutdown: 11b6a6ce-7eed-4909-ab67-c48f416b5931
+[W 09:25:53.531 NotebookApp] delete /Untitled.ipynb
+[W 09:25:53.532 NotebookApp] Skipping trash for /home/vagrant/repo/machine-learning/Untitled.ipynb, on different device to home directory
+[I 09:25:56.759 NotebookApp] Kernel started: e51cc416-6f13-46c1-a7b4-2a8d9db09169
+[I 09:26:07.783 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 09:26:11.820 NotebookApp] Creating new notebook in 
+[I 09:26:12.674 NotebookApp] Kernel started: 258d4820-1ea1-4607-b214-b7a335c966eb
+[I 09:26:44.160 NotebookApp] Saving file at /calculus.ipynb
+[I 09:28:12.640 NotebookApp] Saving file at /tensorflow.ipynb
+[I 09:32:07.811 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 09:34:07.822 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 09:36:07.799 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 09:37:56.824 NotebookApp] Saving file at /numpy.ipynb
+[I 09:38:07.786 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 09:39:56.761 NotebookApp] Saving file at /numpy.ipynb
+[I 09:47:56.792 NotebookApp] Saving file at /numpy.ipynb
+[I 09:49:56.785 NotebookApp] Saving file at /numpy.ipynb
+[I 09:51:56.767 NotebookApp] Saving file at /numpy.ipynb
+[I 09:53:56.762 NotebookApp] Saving file at /numpy.ipynb
+[I 09:55:56.780 NotebookApp] Saving file at /numpy.ipynb
+[I 10:00:07.782 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 10:02:07.783 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 10:04:07.780 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 10:06:07.783 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 10:06:44.110 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 10:08:07.799 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 11:14:07.785 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 11:16:07.800 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 11:18:07.785 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 11:20:07.791 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 11:22:07.814 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 11:24:07.783 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 11:26:07.788 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 11:28:07.790 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 11:36:07.789 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 11:38:07.808 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 11:39:52.974 NotebookApp] Starting buffering for b0615552-9dc9-4017-8c36-783d20b4000f:c0b00840fc8f42378a3a364ffd3fdacc
+[I 11:40:07.785 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 11:42:07.811 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 11:44:07.787 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 11:46:07.792 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 11:48:07.803 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 11:50:07.799 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 11:52:07.790 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 11:54:07.809 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 11:55:03.614 NotebookApp] Starting buffering for fdbb25f6-1330-4fd9-b201-a156e4195596:deb4b7cf94a04e378f91798c6b382c04
+[I 11:55:06.790 NotebookApp] Starting buffering for 7dcfcc7a-34fa-42ff-b0a3-ce7d8aea0078:9d2af4fcacbd494282b7c7475128a80d
+[W 11:55:07.271 NotebookApp] Notebook cat_recognition/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb is not trusted
+[I 11:55:29.749 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 11:57:29.738 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 11:59:29.740 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 12:01:29.732 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 02:20:03.125 NotebookApp] Starting buffering for b654c915-5117-405f-84c1-019c8a315eed:56e29aee67ea4450b196891bf5f967fe
+[I 02:20:07.052 NotebookApp] Starting buffering for 12d40cba-b93a-4cb9-852d-0e3cf29b2c8a:7dc5bf4e012641868e9f18cb120b34fe
+[I 02:20:07.121 NotebookApp] Starting buffering for 258d4820-1ea1-4607-b214-b7a335c966eb:45e91c2df8774287a677d076ca57013c
+[I 02:20:07.454 NotebookApp] Starting buffering for b3737076-a304-4155-811a-ac128968bf92:8062beedfad7418f949646a026588a90
+[I 02:20:07.457 NotebookApp] Starting buffering for e51cc416-6f13-46c1-a7b4-2a8d9db09169:c996ff094b1c40e2878266d2c7d71fa2
+[I 02:20:07.458 NotebookApp] Starting buffering for e359cbca-6a33-4234-b062-68d79a11e1d9:3f03b09c8ae24e81ab3c318b77f505c8
+[I 02:20:07.680 NotebookApp] Starting buffering for f3985655-6200-4be2-bc8f-8138b0ed4459:517d3725ee8640f0ba3a448f933ccf0b
+[I 02:20:07.684 NotebookApp] Starting buffering for b0615552-9dc9-4017-8c36-783d20b4000f:18b85bce66414ce890ef10d58bab5862
+[I 02:20:09.916 NotebookApp] Restoring connection for b654c915-5117-405f-84c1-019c8a315eed:56e29aee67ea4450b196891bf5f967fe
+[I 02:20:09.945 NotebookApp] Restoring connection for b3737076-a304-4155-811a-ac128968bf92:8062beedfad7418f949646a026588a90
+[I 02:20:10.091 NotebookApp] Restoring connection for e51cc416-6f13-46c1-a7b4-2a8d9db09169:c996ff094b1c40e2878266d2c7d71fa2
+[I 02:20:10.128 NotebookApp] Restoring connection for e359cbca-6a33-4234-b062-68d79a11e1d9:3f03b09c8ae24e81ab3c318b77f505c8
+[I 02:20:10.151 NotebookApp] Restoring connection for 258d4820-1ea1-4607-b214-b7a335c966eb:45e91c2df8774287a677d076ca57013c
+[I 02:20:10.174 NotebookApp] Restoring connection for b0615552-9dc9-4017-8c36-783d20b4000f:18b85bce66414ce890ef10d58bab5862
+[I 02:20:12.976 NotebookApp] Restoring connection for f3985655-6200-4be2-bc8f-8138b0ed4459:517d3725ee8640f0ba3a448f933ccf0b
+[W 02:20:12.995 NotebookApp] Replacing stale connection: 370c5ce5-0367-4635-a997-020edc7f64f7:53146c7f64d04c69ac74af7b4269f3b6
+[I 02:20:17.997 NotebookApp] Starting buffering for 370c5ce5-0367-4635-a997-020edc7f64f7:53146c7f64d04c69ac74af7b4269f3b6
+[I 02:20:17.998 NotebookApp] Restoring connection for 370c5ce5-0367-4635-a997-020edc7f64f7:53146c7f64d04c69ac74af7b4269f3b6
+[I 02:20:18.016 NotebookApp] Restoring connection for 12d40cba-b93a-4cb9-852d-0e3cf29b2c8a:7dc5bf4e012641868e9f18cb120b34fe
+[I 02:24:01.104 NotebookApp] Starting buffering for e51cc416-6f13-46c1-a7b4-2a8d9db09169:c996ff094b1c40e2878266d2c7d71fa2
+[I 02:31:19.955 NotebookApp] Saving file at /information-theory.ipynb
+[I 02:33:26.147 NotebookApp] Saving file at /information-theory.ipynb
+[I 02:35:27.264 NotebookApp] Saving file at /information-theory.ipynb
+[I 02:37:27.263 NotebookApp] Saving file at /information-theory.ipynb
+[I 02:39:27.241 NotebookApp] Saving file at /information-theory.ipynb
+[I 02:41:27.251 NotebookApp] Saving file at /information-theory.ipynb
+[I 02:43:27.248 NotebookApp] Saving file at /information-theory.ipynb
+[I 02:44:44.266 NotebookApp] Saving file at /calculus.ipynb
+[I 02:44:51.570 NotebookApp] Saving file at /calculus.ipynb
+[I 02:45:27.232 NotebookApp] Saving file at /probability-theory.ipynb
+[I 02:45:27.287 NotebookApp] Saving file at /information-theory.ipynb
+[I 05:10:07.982 NotebookApp] Saving file at /linear-algebra.ipynb
+[I 05:11:27.256 NotebookApp] Saving file at /information-theory.ipynb
+[I 05:13:27.249 NotebookApp] Saving file at /information-theory.ipynb
+[I 05:15:27.249 NotebookApp] Saving file at /information-theory.ipynb
+[I 05:17:27.250 NotebookApp] Saving file at /information-theory.ipynb
+[I 05:19:27.271 NotebookApp] Saving file at /information-theory.ipynb
+[I 05:21:27.259 NotebookApp] Saving file at /information-theory.ipynb
+[I 05:23:27.253 NotebookApp] Saving file at /information-theory.ipynb
+[I 05:25:27.247 NotebookApp] Saving file at /information-theory.ipynb
+[I 05:27:27.258 NotebookApp] Saving file at /information-theory.ipynb
+[I 05:29:27.248 NotebookApp] Saving file at /information-theory.ipynb
+[I 05:31:27.250 NotebookApp] Saving file at /information-theory.ipynb
+[I 05:33:27.251 NotebookApp] Saving file at /information-theory.ipynb
+[I 05:34:31.953 NotebookApp] Saving file at /probability-theory.ipynb
+[I 05:35:27.250 NotebookApp] Saving file at /information-theory.ipynb
+[I 05:36:31.954 NotebookApp] Saving file at /probability-theory.ipynb
+[I 05:36:44.269 NotebookApp] Saving file at /calculus.ipynb
+[I 05:38:44.249 NotebookApp] Saving file at /calculus.ipynb
+[I 05:43:27.258 NotebookApp] Saving file at /information-theory.ipynb
+[I 05:43:32.339 NotebookApp] Starting buffering for f3985655-6200-4be2-bc8f-8138b0ed4459:517d3725ee8640f0ba3a448f933ccf0b
+[I 05:45:27.265 NotebookApp] Saving file at /information-theory.ipynb
+[I 05:47:27.252 NotebookApp] Saving file at /information-theory.ipynb
+[I 05:49:27.254 NotebookApp] Saving file at /information-theory.ipynb
+[I 05:55:27.255 NotebookApp] Saving file at /information-theory.ipynb
+[I 11:33:49.093 NotebookApp] Starting buffering for e359cbca-6a33-4234-b062-68d79a11e1d9:3f03b09c8ae24e81ab3c318b77f505c8
+[I 11:33:49.303 NotebookApp] Starting buffering for b654c915-5117-405f-84c1-019c8a315eed:56e29aee67ea4450b196891bf5f967fe
+[I 11:33:49.314 NotebookApp] Starting buffering for b0615552-9dc9-4017-8c36-783d20b4000f:18b85bce66414ce890ef10d58bab5862
+[I 11:33:49.439 NotebookApp] Starting buffering for 258d4820-1ea1-4607-b214-b7a335c966eb:45e91c2df8774287a677d076ca57013c
+[I 11:33:49.453 NotebookApp] Starting buffering for b3737076-a304-4155-811a-ac128968bf92:8062beedfad7418f949646a026588a90
+[W 11:33:53.854 NotebookApp] Replacing stale connection: 12d40cba-b93a-4cb9-852d-0e3cf29b2c8a:7dc5bf4e012641868e9f18cb120b34fe
+[I 12:23:55.349 NotebookApp] Starting buffering for 12d40cba-b93a-4cb9-852d-0e3cf29b2c8a:7dc5bf4e012641868e9f18cb120b34fe
+[I 12:23:55.380 NotebookApp] Restoring connection for 12d40cba-b93a-4cb9-852d-0e3cf29b2c8a:7dc5bf4e012641868e9f18cb120b34fe
+[W 12:23:55.395 NotebookApp] Replacing stale connection: 370c5ce5-0367-4635-a997-020edc7f64f7:53146c7f64d04c69ac74af7b4269f3b6
+[I 12:24:00.400 NotebookApp] Starting buffering for 370c5ce5-0367-4635-a997-020edc7f64f7:53146c7f64d04c69ac74af7b4269f3b6
+[I 12:24:00.404 NotebookApp] Restoring connection for 370c5ce5-0367-4635-a997-020edc7f64f7:53146c7f64d04c69ac74af7b4269f3b6
+[I 12:24:00.423 NotebookApp] Restoring connection for 258d4820-1ea1-4607-b214-b7a335c966eb:45e91c2df8774287a677d076ca57013c
+[I 12:24:00.451 NotebookApp] Restoring connection for b0615552-9dc9-4017-8c36-783d20b4000f:18b85bce66414ce890ef10d58bab5862
+[I 12:24:00.478 NotebookApp] Restoring connection for e359cbca-6a33-4234-b062-68d79a11e1d9:3f03b09c8ae24e81ab3c318b77f505c8
+[I 12:24:00.504 NotebookApp] Restoring connection for b3737076-a304-4155-811a-ac128968bf92:8062beedfad7418f949646a026588a90
+[I 12:24:00.521 NotebookApp] Restoring connection for b654c915-5117-405f-84c1-019c8a315eed:56e29aee67ea4450b196891bf5f967fe
+[I 12:38:03.127 NotebookApp] Saving file at /h5py.ipynb
+[I 12:42:03.130 NotebookApp] Saving file at /h5py.ipynb
+[I 12:44:03.092 NotebookApp] Saving file at /h5py.ipynb
+[I 12:46:03.109 NotebookApp] Saving file at /h5py.ipynb
+[I 12:48:03.125 NotebookApp] Saving file at /h5py.ipynb
+[I 12:51:29.912 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 12:53:29.958 NotebookApp] Saving file at /cat_recognition/cat_recognition.ipynb
+[I 13:16:24.918 NotebookApp] Creating new notebook in 
+[I 13:16:26.283 NotebookApp] Kernel started: 80811d43-08f4-45eb-903e-c067a5c5538c
+[I 13:18:26.218 NotebookApp] Saving file at /sigmoid.ipynb
+[I 13:20:26.230 NotebookApp] Saving file at /sigmoid.ipynb
+[I 13:22:26.224 NotebookApp] Saving file at /sigmoid.ipynb
+[W 13:28:59.348 NotebookApp] 404 GET /static/notebook/js/main.min.js.map (192.168.10.1) 19.27ms referer=None
+[I 13:33:03.272 NotebookApp] Creating new notebook in 
+[I 13:33:05.208 NotebookApp] Kernel started: 381ba032-82c2-4300-bdb4-9d91659a499a
+[I 13:35:04.848 NotebookApp] Saving file at /python.ipynb
+[I 13:37:04.852 NotebookApp] Saving file at /python.ipynb
+[I 13:39:04.850 NotebookApp] Saving file at /python.ipynb
+[I 13:41:04.829 NotebookApp] Saving file at /python.ipynb
+[I 13:43:04.829 NotebookApp] Saving file at /python.ipynb
+[I 13:45:04.863 NotebookApp] Saving file at /python.ipynb
+[I 13:47:04.854 NotebookApp] Saving file at /python.ipynb
+[I 13:49:04.722 NotebookApp] Saving file at /python.ipynb
+[I 13:51:04.724 NotebookApp] Saving file at /python.ipynb
+[I 13:57:04.765 NotebookApp] Saving file at /python.ipynb
+[I 13:59:04.806 NotebookApp] Saving file at /python.ipynb
+[I 14:01:04.767 NotebookApp] Saving file at /python.ipynb
+[I 14:03:04.843 NotebookApp] Saving file at /python.ipynb
+[I 14:05:04.767 NotebookApp] Saving file at /python.ipynb
+[I 14:09:44.420 NotebookApp] Starting buffering for 381ba032-82c2-4300-bdb4-9d91659a499a:8891575b79f345b9817263c2c658cf5a
+[I 14:09:47.658 NotebookApp] Starting buffering for b3737076-a304-4155-811a-ac128968bf92:8062beedfad7418f949646a026588a90
+[I 14:09:47.688 NotebookApp] Starting buffering for f3985655-6200-4be2-bc8f-8138b0ed4459:7e788c88822b481c8c4fa9d0722e1d88
+[I 14:09:47.688 NotebookApp] Starting buffering for b0615552-9dc9-4017-8c36-783d20b4000f:18b85bce66414ce890ef10d58bab5862
+[I 14:09:47.806 NotebookApp] Starting buffering for e359cbca-6a33-4234-b062-68d79a11e1d9:3f03b09c8ae24e81ab3c318b77f505c8
+[I 14:09:48.282 NotebookApp] Starting buffering for 12d40cba-b93a-4cb9-852d-0e3cf29b2c8a:7dc5bf4e012641868e9f18cb120b34fe
+[I 14:09:48.370 NotebookApp] Starting buffering for 258d4820-1ea1-4607-b214-b7a335c966eb:45e91c2df8774287a677d076ca57013c
+[I 14:09:48.470 NotebookApp] Starting buffering for fdbb25f6-1330-4fd9-b201-a156e4195596:492cc03a65ca4eb18e3191f8da691660
+[I 14:09:48.471 NotebookApp] Starting buffering for b654c915-5117-405f-84c1-019c8a315eed:56e29aee67ea4450b196891bf5f967fe
+[I 14:09:48.508 NotebookApp] Starting buffering for 370c5ce5-0367-4635-a997-020edc7f64f7:53146c7f64d04c69ac74af7b4269f3b6
+[I 14:09:48.513 NotebookApp] Starting buffering for 80811d43-08f4-45eb-903e-c067a5c5538c:fdcf289337674393a71cca3281bdf1cd
+[I 14:09:51.224 NotebookApp] Restoring connection for 80811d43-08f4-45eb-903e-c067a5c5538c:fdcf289337674393a71cca3281bdf1cd
+[I 14:09:51.250 NotebookApp] Restoring connection for e359cbca-6a33-4234-b062-68d79a11e1d9:3f03b09c8ae24e81ab3c318b77f505c8
+[I 14:09:51.272 NotebookApp] Restoring connection for 370c5ce5-0367-4635-a997-020edc7f64f7:53146c7f64d04c69ac74af7b4269f3b6
+[I 14:09:51.296 NotebookApp] Restoring connection for 12d40cba-b93a-4cb9-852d-0e3cf29b2c8a:7dc5bf4e012641868e9f18cb120b34fe
+[I 14:09:51.333 NotebookApp] Restoring connection for b0615552-9dc9-4017-8c36-783d20b4000f:18b85bce66414ce890ef10d58bab5862
+[I 14:09:51.362 NotebookApp] Restoring connection for 381ba032-82c2-4300-bdb4-9d91659a499a:8891575b79f345b9817263c2c658cf5a
+[I 14:09:51.381 NotebookApp] Restoring connection for f3985655-6200-4be2-bc8f-8138b0ed4459:7e788c88822b481c8c4fa9d0722e1d88
+[I 14:09:51.407 NotebookApp] Restoring connection for 258d4820-1ea1-4607-b214-b7a335c966eb:45e91c2df8774287a677d076ca57013c
+[I 14:09:51.434 NotebookApp] Restoring connection for b3737076-a304-4155-811a-ac128968bf92:8062beedfad7418f949646a026588a90
+[I 14:09:51.526 NotebookApp] Restoring connection for fdbb25f6-1330-4fd9-b201-a156e4195596:492cc03a65ca4eb18e3191f8da691660
+[I 14:09:54.521 NotebookApp] Restoring connection for b654c915-5117-405f-84c1-019c8a315eed:56e29aee67ea4450b196891bf5f967fe
